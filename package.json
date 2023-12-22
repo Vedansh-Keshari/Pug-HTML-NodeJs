@@ -1,0 +1,18 @@
+{
+  "name": "prestigious-dance-academy",
+  "version": "1.0.0",
+  "description": "This is a website for a popular dance academy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon app.js"
+  },
+  "author": "Vedansh The Great",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2",
+    "pug": "^3.0.2",
+    "slugify": "^1.6.6"
+  }
+}
